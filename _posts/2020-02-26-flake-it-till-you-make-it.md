@@ -4,7 +4,7 @@ title: Getting things ready !
 subtitle: Time to catch up on computer skills
 cover-img: /assets/img/codesample.jpg
 thumbnail-img: /assets/img/codesample.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/codesample.jpg
 tags: [life, skills, projects]
 ---
 
