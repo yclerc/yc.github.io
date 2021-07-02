@@ -9,7 +9,7 @@ My name is Yann. I have the following qualities:
 - I spend too much time in front of my computer
 - I dedicate the rest of it to enjoy nature and find ways to slow down the effects of global warming or overconsumption. 
 
-What else do you need?
+What else do you need??
 
 ### My story
 
