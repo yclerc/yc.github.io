@@ -14,3 +14,12 @@ What else do you need??
 ### My story
 
 To be honest, I'm having some trouble remembering right now.
+
+### Skills diagram
+
+**upcoming project !**
+
+
+### My resumé 
+
+**To be uploaded**
