@@ -3,9 +3,9 @@ layout: post
 title: Getting things ready ! 
 subtitle: Time to catch up on computer skills
 cover-img: /assets/img/codesample.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/codesample.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [life, skills, projects]
 ---
 
 Time to go back to school for Advanced Computer Engineering Master degree. 
